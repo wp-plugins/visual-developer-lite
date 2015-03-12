@@ -23,25 +23,27 @@ Enjoy.
 
 == Installation ==
 
-I. Installing Visual Developer.
-    1. Download the Plugin from the provided link in this email.
-    1. Open your Website and go to the Administration Panel.
-        2.1. Click "Plugins" in the Left Menu
-        2.2 Click "Add New"
-        2.3 Click "Upload Plugin"
-        2.4 Upload the Visual Developer ZIP.
-    1. Activate The Plugin
+= Installing Visual Developer =
 
-II. Using Visual Developer
-    1. Go to the Page you want to Customize.
-    1. In the Wordpress Toolbar on the Top, you'll Notice "Toggle Visual Developer", click it.
-    1. Your First Step is to Click "Open" in the Visual Developer Panel.
-    1. Now you can select which Element you want to customize, you'll do this by clicking it.
-    1. You'll be presented with the "Element Navigation Panel", you'll chose how many elements that are alike will have CSS changes applied.
-    1. You'll be presented with the Element Panel, and now you can start "doing your changes", feel free to Customize your Experience from the Preferences Panel from the Visual Developer Top Bar.
+1. Download the Plugin from the provided link in this email.
+1. Open your Website and go to the Administration Panel.
+* Click "Plugins" in the Left Menu
+* Click "Add New"
+* Click "Upload Plugin"
+* Upload the Visual Developer ZIP.
+1. Activate The Plugin
 
-III. Learning Visual Developer From Video Tutorials :
-   1. Guide - Starting With Visual Developer - https://vimeo.com/110912360
+= Using Visual Developer =
+
+1. Go to the Page you want to Customize.
+1. In the Wordpress Toolbar on the Top, you'll Notice "Toggle Visual Developer", click it.
+1. Your First Step is to Click "Open" in the Visual Developer Panel.
+1. Now you can select which Element you want to customize, you'll do this by clicking it.
+1. You'll be presented with the "Element Navigation Panel", you'll chose how many elements that are alike will have CSS changes applied.
+1. You'll be presented with the Element Panel, and now you can start "doing your changes", feel free to Customize your Experience from the Preferences Panel from the Visual Developer Top Bar.
+
+= Learning Visual Developer From Video Tutorials =
+ 1. Guide - Starting With Visual Developer - https://vimeo.com/110912360
 
 == Frequently Asked Questions ==
 
