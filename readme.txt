@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Visual Developer Lite is an intuitive way to customize your website in just a few minutes with the power of your keyboard and mouse
+Visual Developer Lite is an intuitive way to customize your website in just a few minutes, your imagination is the key here.
 
 == Description ==
 
