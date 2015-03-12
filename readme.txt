@@ -27,10 +27,10 @@ Enjoy.
 
 1. Download the Plugin from the provided link in this email.
 1. Open your Website and go to the Administration Panel.
-* Click "Plugins" in the Left Menu
-* Click "Add New"
-* Click "Upload Plugin"
-* Upload the Visual Developer ZIP.
+1. Click "Plugins" in the Left Menu
+1. Click "Add New"
+1. Click "Upload Plugin"
+1. Upload the Visual Developer ZIP.
 1. Activate The Plugin
 
 = Using Visual Developer =
